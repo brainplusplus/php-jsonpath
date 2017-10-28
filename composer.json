@@ -1,0 +1,8 @@
+{
+    "name": "brainplusplus/php-jsonpath",
+    "autoload": {
+        "psr-0" : {
+            "Bitsolution\\Utils" : "src"
+        }
+    }
+}
