@@ -2,6 +2,7 @@
     "name": "brainplusplus/php-jsonpath",
 	"description": "JSONPath Library and Helper",
     "type": "library",
+	"version": "1.0.0",
 	"license": "MIT",
     "authors": [
         {
